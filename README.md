@@ -15,26 +15,26 @@
 
 ## 충북대학교 여름통계 워크샵 안내사항
 
--  [**안내사항**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_안내사항.pdf)
+-  [**안내사항**](https://github.com/hxk271/SSW2025/blob/main/archive/2025년_여름통계워크샵_안내사항.pdf)
 
 
 <br/>
 
 ## 제1일차(회귀분석 기초)
 
--  [**A섹션: 선형회귀모형 시작하기**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_회귀분석_S1A.pdf)
+-  [**A섹션: 선형회귀모형 시작하기**](https://github.com/hxk271/SSW2025/blob/main/archive/2025년_여름통계워크샵_회귀분석_S1A.pdf)
 
--  [**B섹션: 다중회귀분석**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_회귀분석_S1B.pdf)
+-  [**B섹션: 다중회귀분석**](https://github.com/hxk271/SSW2025/blob/main/archive/2025년_여름통계워크샵_회귀분석_S1B.pdf)
 
--  [자료 #1](https://github.com/hxk271/SSW2025/blob/main/Data_S1.zip)
+-  [자료 #1](https://github.com/hxk271/SSW2025/blob/main/archive/Data_S1.zip)
 
 
 <br/>
 
 ## 제2일차(회귀분석 응용)
 
--  [**A섹션: 조절변수와 상호작용 효과**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_회귀분석_S2A.pdf)
+-  [**A섹션: 조절변수와 상호작용 효과**](https://github.com/hxk271/SSW2025/blob/main/archive/2025년_여름통계워크샵_회귀분석_S2A.pdf)
 
--  [**B섹션: 매개변수와 경로분석**](https://github.com/hxk271/SSW2025/blob/main/2025년_여름통계워크샵_회귀분석_S2B.pdf)
+-  [**B섹션: 매개변수와 경로분석**](https://github.com/hxk271/SSW2025/blob/main/archive/2025년_여름통계워크샵_회귀분석_S2B.pdf)
 
--  [자료 #2](https://github.com/hxk271/SSW2025/blob/main/Data_S2.zip)
+-  [자료 #2](https://github.com/hxk271/SSW2025/blob/main/archive/Data_S2.zip)
