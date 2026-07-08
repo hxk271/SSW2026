@@ -28,8 +28,8 @@
 
 ## 제2일차(회귀분석 응용)
 
--  [**A섹션: 조절변수와 상호작용 효과**](https://github.com/hxk271/SSW2026/blob/main/archive/2026년_여름통계워크샵_회귀분석_S2A.pdf)
+-  [**A섹션: 질적변수**](https://github.com/hxk271/SSW2026/blob/main/archive/2026년_여름통계워크샵_회귀분석_S2A.pdf)
 
--  [**B섹션: 매개변수와 경로분석**](https://github.com/hxk271/SSW2026/blob/main/archive/2026년_여름통계워크샵_회귀분석_S2B.pdf)
+-  [**B섹션: 조절변수와 매개변수**](https://github.com/hxk271/SSW2026/blob/main/archive/2026년_여름통계워크샵_회귀분석_S2B.pdf)
 
 -  [자료 #2](https://github.com/hxk271/SSW2026/blob/main/archive/Data_S2.zip)
