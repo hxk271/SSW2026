@@ -9,14 +9,9 @@
 
 통계학에 관한 기초 교재는 『경영경제 통계학노트』([**링크**](https://product.kyobobook.co.kr/detail/S000202998078))나 『심리통계』([**링크**](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351722614))를 추천합니다. 하지만 이 수업을 위한 필수는 아닙니다.
 
+이 워크샵에 참가하기 위해 기술통계(descriptive statistics), 이론적 확률분포(theoretical probability distribution), 추정(estimation)과 가설검정(hypothesis test)의 논리 등 기초통계학은 알고 있어야 합니다. 오픈소스 소프트웨어인 jamovi를 사용합니다. ([**링크**](https://www.jamovi.org/download.html)에서 무료로 다운로드 받을 수 있습니다.
+
 오류를 발견하셨거나 개선을 위한 건의사항이 있으시면 연락 부탁합니다.
-
-<br/>
-
-## 충북대학교 여름통계 워크샵 안내사항
-
--  [**안내사항**](https://github.com/hxk271/SSW2026/blob/main/archive/2026년_여름통계워크샵_안내사항.pdf)
-
 
 <br/>
 
